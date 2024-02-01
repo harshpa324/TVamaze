@@ -1,4 +1,3 @@
-// pages/show/[id].js
 import React from 'react';
 import ShowDetails from '../../components/ShowDetails';
 
